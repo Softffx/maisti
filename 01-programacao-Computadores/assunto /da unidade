@@ -1,0 +1,20 @@
+Unidade I - Programação
+Objetivos
+Apresentar aos alunos a resolução de problemas computacionais por meio de linguagens de programação. Serão apresentadas as principais estruturas de programação, como comandos de decisão, repetição, bem como modularização.
+
+Ementa
+Introdução ao pensamento computacional.  Conceito de variável. Tipos de dados. Estruturas sequenciais. Comandos de decisão. Comandos de repetição. Criação de funções. Parâmetros. Vetores.
+
+Bibliografia Básica
+The JavaScript Beginner's Handbook. Copes F. Disponível em português em https://www.freecodecamp.org/portuguese/news/o-manual-de-javascript-para-iniciantes/
+
+Eloquent JavaScript. Haverbeke M. 4th edition. 2024.
+
+JavaScript from Beginner to Professional. Sevekins, Percival, van Putten. Packt Publishing Ltd, 2021.
+
+Sites
+p5.js
+
+Documentação, tutoriais e exemplos: https://p5js.org/
+
+Ambiente de desenvolvimento online: https://editor.p5js.org/
